@@ -4,7 +4,7 @@
 
 
 </h1>
-<h1 align="center">Hello World | I'm Hyxuu</h1>
+<h1 align="center">Hello World | I'm Dae</h1>
 
 <h4 align="center">Sofware Developer | Clean Code Advocate | Lifelong Learner</h4>
 <!-- Idk -->
@@ -26,7 +26,7 @@
     <li><strong>Growth:</strong> Constantly evolving as a developer.</li>
     <li><strong>Currently learning:</strong> React, Node.js, .NET</li>
     <li><strong>Frontend:</strong> HTML, CSS, JavaScript, React</li>
-    <li><strong>Backend:</strong> Python, Java, C#, SQL</li>
+    <li><strong>Backend:</strong> Python, Java,SQL</li>
     <li><strong>Motivation:</strong> Building solutions that create real impact.</li>
   </ul>
 </div>
