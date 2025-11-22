@@ -1,4 +1,6 @@
-![download (1)](https://github.com/user-attachments/assets/2c23393e-2a8f-4506-93f2-336a21867615)
+<p align="center">
+  <img alt="ambient-gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjY5eGZ0b2g0OWM4M2pqbWZtbHp5Nmh0OGQza2d0YnRwaTd0cWo5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlAqYnB0eR3uhE1zw2/giphy.gif" width="700">
+</p>
 
 
 </h1>
