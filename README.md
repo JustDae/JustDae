@@ -13,7 +13,12 @@
 <!--VIEWS / WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlsb2pudXduMGtsNWF2czl4ajN4MG15dTc0M2k4MmRvbW14c2hlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="500">
 
-
+### 🎵 Listening on Spotify
+<p align="left">
+  <a href="https://open.spotify.com/user/31m7hll44p32hffg6fom7itx5ezy">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify-now-playing?user=31m7hll44p32hffg6fom7itx5ezy&theme=dark&bar_color=0070f3&text_color=ffffff" alt="Spotify Now Playing" width="350" />
+  </a>
+</p>
 
 <h3 align="left">
   <img width="50" height="50" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="github"/>
