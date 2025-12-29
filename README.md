@@ -5,8 +5,15 @@
 
 </h1>
 <h1 align="center">Hello World | I'm Dae</h1>
+<br>
+<p align="center">
+  $\color{#0070f3}{\text{Developer | Tech Enthusiast | Constant Learner}}$
+</p>
 
-<h4 align="center">Sofware Developer | Clean Code Advocate | Lifelong Learner</h4>
+<p align="center">
+  > $\color{#0070f3}{\text{⚠ Connection Error: [Forgotten_Syntax] failed to load Spotify widget}}$
+</p>
+<!--<h4 align="center">Sofware Developer | Tech Enthusiast | Lifelong Learner</h4>
 <!-- Idk -->
 
 <!-->    
