@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  > $\color{#0070f3}{\text{⚠ Connection Error: [Forgotten_Syntax] failed to load }}$
+  > $\color{#0070f3}{\text{ Connection Error: [Forgotten_Syntax] failed to load }}$
 </p>
 <!--<h4 align="center">Sofware Developer | Tech Enthusiast | Lifelong Learner</h4>
 <!-- Idk -->
